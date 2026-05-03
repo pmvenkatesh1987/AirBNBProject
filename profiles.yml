@@ -1,7 +1,7 @@
 AIRBNB_DBT:
   outputs:
     dev:
-      account: UCHCKZL-PI13628
+      account: RXAFDLR-DZ70197
       database: AIRBNB_DBT
       password: Milwaukee@@1987
       role: ACCOUNTADMIN
